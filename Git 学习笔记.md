@@ -14,7 +14,7 @@
 
 ### 如何安装和配置Git（以 Windows为例）
 
-##### 1.直接从Git官网下载安装程序(https://git-scm.com/install/windows)，然后按默认选项安装即可。若右键可以找到Open Git Bush Here，蹦出命令窗口，则证明安装成功。
+##### 1.直接从Git官网下载安装程序 (https://git-scm.com/install/windows) ，然后按默认选项安装即可。若右键可以找到Open Git Bush Here，蹦出命令窗口，则证明安装成功。
 
 ##### 2.在使用git前需要配置用户信息，这样才能告诉机器你是谁，才能在协作中知道是谁修改了哪些文件。
 
@@ -91,5 +91,6 @@ Initialized empty Git repository in /Users/michael/learngit/.git/*
 ### 提交方式
 ##### 除了可以用Git Bash提交外，还可以使用图形化工具以及集成开发环境（IDE）来进行提交，更加清晰方便。
 ##### 1.TortoiseGit 2，VisualStudioCode（本人目前在用的一款） 3.IntelliJIDEA 等
+
 
 
