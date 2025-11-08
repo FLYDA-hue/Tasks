@@ -22,6 +22,7 @@
 *$ git config --global user.name "Your Name"*
 
 *$ git config --global user.email "  "*
+###### （注意在输入时==前面的空格，一开始因为这个问题始终没有成功，设置时尽量保证与GitHub上一致）
 
 ### 仓库设置
 
@@ -91,6 +92,7 @@ Initialized empty Git repository in /Users/michael/learngit/.git/*
 ### 提交方式
 ##### 除了可以用Git Bash提交外，还可以使用图形化工具以及集成开发环境（IDE）来进行提交，更加清晰方便。
 ##### 1.TortoiseGit 2，VisualStudioCode（本人目前在用的一款） 3.IntelliJIDEA 等
+
 
 
 
