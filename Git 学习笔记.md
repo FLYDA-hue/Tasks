@@ -1,9 +1,22 @@
-## Git 学习笔记（含进阶）
+# Git 学习笔记（含进阶）
 
-###### 记录人：冯礼盈
+###### -冯礼盈
 
 ##### Git Bash是命令行操作。
+## 学习背景
+  
+  [廖雪峰的官方网站](https://liaoxuefeng.com/books/git/introduction/index.html)
+  
+  [B站给傻子的git教程](https://www.bilibili.com/video/BV1Hkr7YYEh8/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a78069782a9aa4e8a2dd04738f67b492)
 
+## 学习内容的目录
+- 这是内容[Git定义](#Git定义)
+- 这是内容[Git作用](#Git作用)
+- 这是内容[如何安装和配置Git以Windows为例](#如何安装和配置Git以Windows为例)
+- 这是内容[仓库设置](#仓库设置)
+- 这是内容[工作区和暂存区](#工作区和暂存区)
+- 这是内容[回退、修改、删除](#回退、修改、删除)
+- 这是内容[提交方式](#提交方式)
 ### Git定义
 
 ##### Git是目前世界上最先进的分布式版本控制系统，是Linus自己用C写的。
@@ -92,6 +105,7 @@ Initialized empty Git repository in /Users/michael/learngit/.git/*
 ### 提交方式
 ##### 除了可以用Git Bash提交外，还可以使用图形化工具以及集成开发环境（IDE）来进行提交，更加清晰方便。
 ##### 1.TortoiseGit 2，VisualStudioCode（本人目前在用的一款） 3.IntelliJIDEA 等
+
 
 
 
