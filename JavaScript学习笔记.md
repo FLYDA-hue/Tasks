@@ -13,7 +13,7 @@
 - [JavaScript的作用](#JavaScript的作用)
 - [JavaScript的导入方式](#JavaScript的导入方式)
 - [JavaScript的基本语法](#JavaScript的基本语法)
-- [DOM（Document Object Model）](#DOM（Document Object Model）)
+- [DOM](#DOM)
 
 ## 学习内容
 
@@ -95,7 +95,8 @@
 
 - ##### addEventListener方法
 
-### DOM（Document Object Model）
+### DOM
+###### 全称Document Object Model
 
 ##### 当页面被加载时，浏览器会创建页面的文档对象模型DOM，DOM为HTML提供了一个编程接口（DOM API），允许开发者通过JS与HTML文档进行交互改变。
 
@@ -119,5 +120,6 @@
 | getAttribute()    | 返回指定的属性值。               |
 
 ## 参考资料
+
 
 ##### B站视频[3小时前端入门教程（HTML+CSS+JS）](https://www.bilibili.com/video/BV1BT4y1W7Aw?spm_id_from=333.788.player.switch&vd_source=a78069782a9aa4e8a2dd04738f67b492&p=8)
