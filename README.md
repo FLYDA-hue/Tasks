@@ -12,4 +12,6 @@
 
 3.[JavaScript学习笔记](https://github.com/FLYDA-hue/Tasks/blob/main/JavaScript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 
-4.[页面编后感](https://github.com/FLYDA-hue/Tasks/blob/main/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F.md)
+4.[静态网页作品链接](https://flyda-hue.github.io/)
+
+5.[页面编后感](https://github.com/FLYDA-hue/Tasks/blob/main/%E9%A1%B5%E9%9D%A2%E7%BC%96%E5%90%8E%E6%84%9F.md)
